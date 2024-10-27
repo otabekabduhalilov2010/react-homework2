@@ -1,0 +1,48 @@
+ .card {
+  background-color: rgb(186, 8, 8);
+  color: white;
+  border: 2px solid rgb(146, 9, 9);
+  box-shadow: rgba(191, 55, 55, 0.719);
+border-radius: 10px;
+height: 500px;
+width: 400px;
+text-transform: uppercase;
+font-size: 21px;
+text-align: center;
+img {
+  width: 100%;
+}
+} 
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+
+}
+
+button {
+  width: 200px;
+  height: 56px;
+  background-color: rgb(24, 22, 22);
+  color: white;
+  font-size: 16px;
+  border: none;
+
+}
+
+.card2 {
+  background-color: rgb(10, 95, 231);
+  color: white;
+  border: 2px solid rgb(5, 147, 248);
+  box-shadow: rgba(37, 163, 222, 0.719);
+border-radius: 10px;
+height: 500px;
+width: 400px;
+text-transform: uppercase;
+font-size: 21px;
+text-align: center;
+img {
+  width: 100%;
+}
+}
